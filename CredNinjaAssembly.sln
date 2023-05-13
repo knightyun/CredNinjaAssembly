@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CredNinjaAssembly", "CredNinjaAssembly\CredNinjaAssembly.csproj", "{77CFF718-1070-49A4-9EEC-02C624AFF4B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CredNinjaAssembly", "CredNinjaAssembly\CredNinjaAssembly.csproj", "{F74EDDB4-5961-4FCD-B64B-1B5BA08F7D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{77CFF718-1070-49A4-9EEC-02C624AFF4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77CFF718-1070-49A4-9EEC-02C624AFF4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77CFF718-1070-49A4-9EEC-02C624AFF4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77CFF718-1070-49A4-9EEC-02C624AFF4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74EDDB4-5961-4FCD-B64B-1B5BA08F7D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74EDDB4-5961-4FCD-B64B-1B5BA08F7D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74EDDB4-5961-4FCD-B64B-1B5BA08F7D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74EDDB4-5961-4FCD-B64B-1B5BA08F7D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {54E0DBC1-785B-4C72-823C-4FDBA7BA658C}
+		SolutionGuid = {6C1CC80E-61F3-4E3F-99C2-C05EA2F8DA74}
 	EndGlobalSection
 EndGlobal
