@@ -9,7 +9,7 @@ using System.Threading;
 using System.Linq;
 using System.Net;
 
-namespace CredNinja
+namespace CredNinjaAssembly
 {
     public class Options
     {
